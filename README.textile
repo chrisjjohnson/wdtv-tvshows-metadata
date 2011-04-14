@@ -1,12 +1,12 @@
-h2. What?
+h1. What?
 
 A TV Shows' metadata information scraper for WDTV Live Hub.
 
-h3. Why?
+h2. Why?
 
 WD TV Live Hub is incapable to get metadata info for TV Shows (because it uses http://www.themoviedb.org/ which only has information about movies). So I will write my own scraper to get info about TV Shows and write it in the format that WD TV Live Hub understands.
 
-h3. Details
+h2. Details
 
  * I will use the same ["naming convetions":http://wiki.xbmc.org/index.php?title=TV_Shows_(Video_Library)#TV_Show_files_naming_conventions] that XMBC
  * I will use "The Online TV Database":http://thetvdb.com as information source

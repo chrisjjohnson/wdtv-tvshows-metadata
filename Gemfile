@@ -3,6 +3,8 @@ source "http://rubygems.org"
 
 gem "curb"
 
-group :test do
-  gem "rspec"
+group :development, :test do
+  gem "rspec", :require => "spec"
+  gem "autotest"
+  gem "wirble"
 end
